@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋 I'm Sze-jo
 
-<!--
-**Snow0224/Snow0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I am building my programming portfolio and exploring software & web development.
+- 🛠️ **Tech Stack:**
+  - **Languages:** JavaScript, Python, HTML/CSS
+  - **Tools:** Git, GitHub, VS Code
+- 🌱 **Currently learning:** Project structures, frontend interactions, and automation tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+| Project | Description | Tech | Link |
+| :--- | :--- | :--- | :--- |
+| **[Project 1]** | Description of your utility script or automation tool. | `Python` | [GitHub Repo](your-repo-link) |
+| **[Project 2]** | Description of your frontend practice project. | `HTML` / `CSS` / `JS` | [GitHub Repo](your-repo-link) |
+
+---
+
+### 📬 Get in Touch
+
+- **GitHub:** [@Snow0224](https://github.com/Snow0224)
+- Feel free to reach out or open an issue if you'd like to connect!
